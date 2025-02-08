@@ -81,11 +81,11 @@
             <p>MERALLIN SUKSES ABADI: Solusi Labor Supply Terbaik untuk Berbagai Kebutuhan Bisnis Anda.</p>
             <p>Sejak berdiri pada tahun 2024, Merallin Sukses Abadi telah menjadi pilihan terpercaya dalam menyediakan tenaga kerja profesional untuk berbagai sektor industri.</p>
             <p>Layanan kami mencakup penyediaan tenaga kerja harian maupun kontrak untuk berbagai kebutuhan, seperti event organizer, pabrik, pergudangan, logistik, dan lainnya.</p>
-            <p>Dengan tenaga kerja yang andal dan terlatih, kami memastikan setiap operasional bisnis Anda berjalan lancar, efektif, dan efisien sesuai kebutuhan perusahaan Anda.</p>
+            <p>Dengan tenaga kerja yang handal dan terlatih, kami memastikan setiap operasional bisnis Anda berjalan lancar, efektif, dan efisien sesuai kebutuhan perusahaan Anda.</p>
             <br>
             <p class="fw-bold">💬 Hubungi kami untuk konsultasi dan pemesanan!</p>
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Labor%20Supply.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="200%" src="assets/img/icons/chat-with-merallin.png"></a>
+              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Labor%20Supply.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="300px" src="assets/img/icons/chat-with-merallin.png"></a>
             </div>
           </div>
 
