@@ -112,11 +112,6 @@
     </section>
     <!-- About Section -->
 
-
-    <!-- Team Section -->
-    <?php include 'team-page.php'; ?>
-    <!-- /Team Section -->
-
     <!-- Clients Section -->
     <?php include 'clients-page.php'; ?>
     <!-- /Clients Section -->

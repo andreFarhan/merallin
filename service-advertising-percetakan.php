@@ -89,7 +89,7 @@
             <br>
             <p class="fw-bold">💬 Hubungi kami untuk konsultasi dan pemesanan!</p>
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Advertising%20%26%20Percetakan.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="200%" src="assets/img/icons/wa-admin-1.png"></a>
+              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Advertising%20%26%20Percetakan.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="200%" src="assets/img/icons/chat-with-merallin.png"></a>
             </div>
           </div>
 

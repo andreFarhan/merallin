@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Service Tour & Gathering Organizer</title>
+  <title>Service Catering</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -53,12 +53,12 @@
     <!-- Page Title -->
     <div class="page-title accent-background">
       <div class="container d-lg-flex justify-content-between align-items-center">
-        <h1 class="mb-2 mb-lg-0">Service Tour & Gathering Organizer</h1>
+        <h1 class="mb-2 mb-lg-0">Service Catering</h1>
         <nav class="breadcrumbs">
           <ol>
             <li><a href="/merallin">Home</a></li>
             <li><a href="services">Services</a></li>
-            <li class="current">Service Tour & Gathering Organizer</li>
+            <li class="current">Service Catering</li>
           </ol>
         </nav>
       </div>
@@ -72,19 +72,20 @@
         <div class="row gy-4">
 
           <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/tour.png" alt="" class="img-fluid services-img">            
+            <img src="assets/img/catering.png" alt="" class="img-fluid services-img">            
           </div>
 
 
           <div style="text-align: justify;" class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-            <h4>Service Tour & Gathering Organizer</h4>
-            <p>MERALLIN TRANSLOG AND RENTAL SERVICE: Solusi Transportasi Terbaik untuk Kebutuhan Anda.</p>
-            <p>Sejak berdiri pada tahun 2024, Merallin Translog telah menjadi pilihan utama perusahaan swasta dalam memenuhi kebutuhan transportasi bisnis. Layanan kami mencakup berbagai opsi, mulai dari sewa jangka panjang, layanan untuk ekspatriat, hingga logistik dan sewa harian untuk keperluan perjalanan bisnis Anda.</p>
-            <p>Dengan berbagai pilihan kendaraan, mulai dari Family Car, City Car, Premium Car, hingga Box Truck dan Tour Bus, Merallin Translog menawarkan fleksibilitas sewa harian, mingguan, bulanan, hingga tahunan sesuai kebutuhan Anda.</p>
+            <h4>Service Catering</h4>
+            <p>MERALLIN SUKSES ABADI: Solusi Catering Terbaik untuk Acara Spesial Anda.</p>
+            <p>Sejak berdiri pada tahun 2024, Merallin Sukses Abadi telah menjadi pilihan utama dalam layanan catering profesional untuk berbagai acara spesial. Kami menghadirkan hidangan berkualitas dengan cita rasa istimewa yang siap memanjakan setiap tamu Anda.</p>
+            <p>Layanan kami mencakup berbagai kebutuhan catering, mulai dari pernikahan, acara keluarga, hingga corporate gathering dengan pilihan menu tradisional dan internasional yang lengkap.</p>
+            <p>Dengan tim profesional dan layanan yang andal, Merallin memastikan setiap acara berjalan lancar dengan makanan yang selalu tersaji segar dan menggugah selera.</p>
             <br>
             <p class="fw-bold">💬 Hubungi kami untuk konsultasi dan pemesanan!</p>
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Tour%20%26%20Gathering%20Organizer.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="200%" src="assets/img/icons/chat-with-merallin.png"></a>
+              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Catering.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="200%" src="assets/img/icons/chat-with-merallin.png"></a>
             </div>
           </div>
 
@@ -97,8 +98,8 @@
     <section id="services" class="services section light-background">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Tour & Gathering Organizer</h2>
-        <h4>Mengapa Memilih Merallin Tour & Gathering Organizer?</h4>
+        <h2>Catering</h2>
+        <h4>Mengapa Memilih Merallin Catering?</h4>
       </div><!-- End Section Title -->
       <div class="container">
 
@@ -107,40 +108,40 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour1.png" title="HARGA TERBAIK, BIAYA TERJANGKAU, LAYANAN MAKSIMAL" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour1.png" width="180px"></a>
+                <a href="assets/img/catering/catering-1.png" title="HARGA TERBAIK, BIAYA TERJANGKAU, LAYANAN MAKSIMAL" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-1.png" width="300px"></a>
               </div>
                 <h3>HARGA TERBAIK, BIAYA TERJANGKAU, LAYANAN MAKSIMAL</h3>              
-                <p>Harga paket wisata yang kami tawarkan berbeda dari agen tour & travel lainnya. Kami menyediakan harga yang sesuai dengan budget liburan Anda tanpa mengorbankan kualitas layanan.</p>
+                <p>Kami menawarkan pilihan paket catering nikahan dan acara spesial lainnya dengan harga terjangkau tanpa mengorbankan kualitas dan cita rasa.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour2.png" title="PILIHAN DESTINASI WISATA TERHITS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour2.png" width="180px"></a>
+                <a href="assets/img/catering/catering-2.png" title="PILIHAN DESTINASI WISATA TERHITS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-2.png" width="300px"></a>
               </div>
-                <h3>PILIHAN DESTINASI WISATA TERHITS</h3>              
-                <p>Kami telah memilih destinasi wisata terbaru dan terbaik yang mungkin belum pernah Anda kunjungi sebelumnya, memberikan pengalaman liburan yang segar dan berkesan.</p>
+                <h3>PILIHAN MENU LEZAT DAN BERAGAM</h3>              
+                <p>Dari hidangan tradisional hingga menu internasional, kami sajikan makanan terbaik yang cocok untuk pesta pernikahan, ulang tahun, dan gathering.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour3.png" title="DUKUNGAN TIM PROFESIONAL:" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour3.png" width="180px"></a>
+                <a href="assets/img/catering/catering-3.png" title="DUKUNGAN TIM PROFESIONAL:" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-3.png" width="300px"></a>
               </div>
                 <h3>DUKUNGAN TIM PROFESIONAL</h3>              
-                <p>Biarkan tim profesional kami mengurus semua kebutuhan perjalanan Anda. Anda cukup fokus menikmati kenyamanan perjalanan dan keindahan destinasi wisata pilihan.</p>
+                <p>Tim profesional kami memastikan makanan disajikan dengan sempurna, lengkap dengan layanan penyajian dan dekorasi meja catering yang elegan.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour4.png" title="LAYANAN ANTAR JEMPUT + SOPIR" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour4.png" width="180px"></a>
+                <a href="assets/img/catering/catering-4.png" title="LAYANAN ANTAR JEMPUT + SOPIR" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-4.png" width="300px"></a>
               </div>
-                <h3>LAYANAN ANTAR JEMPUT + SOPIR</h3>              
-                <p>Tidak perlu repot datang ke kantor. Duduk santai di rumah dan tunggu kami datang. Kami siap menjemput Anda di mana saja dengan layanan sopir profesional.</p>
+                <h3>LAYANAN ANTAR & SETUP ACARA</h3>              
+                <p>Nikmati layanan antar makanan langsung ke lokasi acara Anda, termasuk setup buffet yang estetik dan rapi.</p>
             </div>
           </div><!-- End Service Item -->
 

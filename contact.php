@@ -93,12 +93,12 @@
         <div class="row gy-5 gx-lg-5 justify-content-center">
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-            <a href="https://wa.me/6285860939031"><img width="100%" src="assets/img/icons/wa-admin-1.png"></a>
+            <a href="https://wa.me/6285860939031"><img width="100%" src="assets/img/icons/chat-with-merallin-1.png"></a>
           </div>
 
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <a href="https://wa.me/6282179341397"><img width="100%" src="assets/img/icons/wa-admin-2.png"></a>
+            <a href="https://wa.me/6282179341397"><img width="100%" src="assets/img/icons/chat-with-merallin-2.png"></a>
           </div><!-- End Contact Form -->
 
         </div>

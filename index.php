@@ -48,9 +48,9 @@
           <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
           <div style="text-align: justify;" class="container col-lg-8">
             <h2 style="text-align: center;">TENTANG KAMI</h2>
-            <p>PT. Merallin Sukses Abadi adalah perusahaan yang bergerak di bidang industri percetakan umum, catering/restoran, perdagangan grosir berbagai barang, serta penyewaan kendaraan seperti mobil, bus, dan truk.</p> 
+            <p>PT. Merallin Sukses Abadi adalah perusahaan yang bergerak di bidang pengadaan Barang dan Jasa, Sewa Kendaraan, Logistik, Labor Supply dan Catering</p> 
 
-            <p>Berlokasi di Kelapa Gading, Jakarta Utara, dengan izin usaha AHU-0047771.AH.01.01, kami hadir dengan komitmen tinggi untuk memberikan layanan terbaik yang turut berkontribusi dalam pertumbuhan ekonomi daerah dan nasional.</p> 
+            <p>Berlokasi di Kelapa Gading, Jakarta Utara, kami hadir dengan komitmen tinggi untuk memberikan layanan terbaik yang turut berkontribusi dalam pertumbuhan ekonomi daerah dan nasional.</p> 
 
             <a href="about" class="btn-get-started">Read More</a>
           </div>

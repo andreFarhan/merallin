@@ -21,6 +21,7 @@
                 <li><i class="bi bi-check-circle"></i> <span>Desain Interior</span></li>
                 <li><i class="bi bi-check-circle"></i> <span>Transportasi & Logistik (Translog)</span></li>
                 <li><i class="bi bi-check-circle"></i> <span>Tour & Gathering Organizer</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Catering</span></li>
               </ul>
               <p>Dengan keahlian teknis dan komitmen terhadap kualitas, kami memastikan setiap proyek dirancang dan dieksekusi secara optimal, mulai dari perencanaan, pelaksanaan, hingga hasil akhir yang memuaskan. Pelanggan kami mendapatkan keunggulan dari segi harga, waktu pelaksanaan, serta kualitas hasil.</p>
 
