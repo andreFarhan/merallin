@@ -38,6 +38,8 @@
             <li><a href="service-interior">Desain Interior</a></li>
             <li><a href="service-translog">Transportasi & Logistik (Translog)</a></li>
             <li><a href="service-tour">Tour & Gathering Organizer</a></li>
+            <li><a href="service-labor-supply">Labor Supply</a></li>
+            <li><a href="service-catering">Catering</a></li>
           </ul>
         </div>
 

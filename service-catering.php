@@ -118,7 +118,7 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/catering/catering-2.png" title="PILIHAN DESTINASI WISATA TERHITS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-2.png" width="300px"></a>
+                <a href="assets/img/catering/catering-2.png" title="PILIHAN MENU LEZAT DAN BERAGAM" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-2.png" width="300px"></a>
               </div>
                 <h3>PILIHAN MENU LEZAT DAN BERAGAM</h3>              
                 <p>Dari hidangan tradisional hingga menu internasional, kami sajikan makanan terbaik yang cocok untuk pesta pernikahan, ulang tahun, dan gathering.</p>
@@ -128,7 +128,7 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/catering/catering-3.png" title="DUKUNGAN TIM PROFESIONAL:" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-3.png" width="300px"></a>
+                <a href="assets/img/catering/catering-3.png" title="DUKUNGAN TIM PROFESIONAL" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-3.png" width="300px"></a>
               </div>
                 <h3>DUKUNGAN TIM PROFESIONAL</h3>              
                 <p>Tim profesional kami memastikan makanan disajikan dengan sempurna, lengkap dengan layanan penyajian dan dekorasi meja catering yang elegan.</p>
@@ -138,7 +138,7 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/catering/catering-4.png" title="LAYANAN ANTAR JEMPUT + SOPIR" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-4.png" width="300px"></a>
+                <a href="assets/img/catering/catering-4.png" title="LAYANAN ANTAR & SETUP ACARA" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/catering/catering-4.png" width="300px"></a>
               </div>
                 <h3>LAYANAN ANTAR & SETUP ACARA</h3>              
                 <p>Nikmati layanan antar makanan langsung ke lokasi acara Anda, termasuk setup buffet yang estetik dan rapi.</p>

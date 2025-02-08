@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Service Tour & Gathering Organizer</title>
+  <title>Service Labor Supply</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -53,12 +53,12 @@
     <!-- Page Title -->
     <div class="page-title accent-background">
       <div class="container d-lg-flex justify-content-between align-items-center">
-        <h1 class="mb-2 mb-lg-0">Service Tour & Gathering Organizer</h1>
+        <h1 class="mb-2 mb-lg-0">Service Labor Supply</h1>
         <nav class="breadcrumbs">
           <ol>
             <li><a href="/merallin">Home</a></li>
             <li><a href="services">Services</a></li>
-            <li class="current">Service Tour & Gathering Organizer</li>
+            <li class="current">Service Labor Supply</li>
           </ol>
         </nav>
       </div>
@@ -72,19 +72,20 @@
         <div class="row gy-4">
 
           <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/tour.png" alt="" class="img-fluid services-img">            
+            <img src="assets/img/labor.png" alt="" class="img-fluid services-img">            
           </div>
 
 
           <div style="text-align: justify;" class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-            <h4>Service Tour & Gathering Organizer</h4>
-            <p>MERALLIN TRANSLOG AND RENTAL SERVICE: Solusi Transportasi Terbaik untuk Kebutuhan Anda.</p>
-            <p>Sejak berdiri pada tahun 2024, Merallin Translog telah menjadi pilihan utama perusahaan swasta dalam memenuhi kebutuhan transportasi bisnis. Layanan kami mencakup berbagai opsi, mulai dari sewa jangka panjang, layanan untuk ekspatriat, hingga logistik dan sewa harian untuk keperluan perjalanan bisnis Anda.</p>
-            <p>Dengan berbagai pilihan kendaraan, mulai dari Family Car, City Car, Premium Car, hingga Box Truck dan Tour Bus, Merallin Translog menawarkan fleksibilitas sewa harian, mingguan, bulanan, hingga tahunan sesuai kebutuhan Anda.</p>
+            <h4>Service Labor Supply</h4>
+            <p>MERALLIN SUKSES ABADI: Solusi Labor Supply Terbaik untuk Berbagai Kebutuhan Bisnis Anda.</p>
+            <p>Sejak berdiri pada tahun 2024, Merallin Sukses Abadi telah menjadi pilihan terpercaya dalam menyediakan tenaga kerja profesional untuk berbagai sektor industri.</p>
+            <p>Layanan kami mencakup penyediaan tenaga kerja harian maupun kontrak untuk berbagai kebutuhan, seperti event organizer, pabrik, pergudangan, logistik, dan lainnya.</p>
+            <p>Dengan tenaga kerja yang andal dan terlatih, kami memastikan setiap operasional bisnis Anda berjalan lancar, efektif, dan efisien sesuai kebutuhan perusahaan Anda.</p>
             <br>
             <p class="fw-bold">💬 Hubungi kami untuk konsultasi dan pemesanan!</p>
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Tour%20%26%20Gathering%20Organizer.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="200%" src="assets/img/icons/chat-with-merallin.png"></a>
+              <a href="https://wa.me/6285860939031?text=Halo%21%20Saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20Service%20Labor%20Supply.%20Mohon%20informasinya%2C%20terima%20kasih%21"><img class="img" width="200%" src="assets/img/icons/chat-with-merallin.png"></a>
             </div>
           </div>
 
@@ -97,8 +98,8 @@
     <section id="services" class="services section light-background">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Tour & Gathering Organizer</h2>
-        <h4>Mengapa Memilih Merallin Tour & Gathering Organizer?</h4>
+        <h2>Labor Supply</h2>
+        <h4>Mengapa Memilih Merallin Labor Supply?</h4>
       </div><!-- End Section Title -->
       <div class="container">
 
@@ -107,40 +108,40 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour1.png" title="HARGA TERBAIK, BIAYA TERJANGKAU, LAYANAN MAKSIMAL" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour1.png" width="180px"></a>
+                <a href="assets/img/labor/labor-1.png" title="TENAGA KERJA BERKUALITAS & TERLATIHLAYANAN MAKSIMAL" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/labor/labor-1.png" width="300px"></a>
               </div>
-                <h3>HARGA TERBAIK, BIAYA TERJANGKAU, LAYANAN MAKSIMAL</h3>              
-                <p>Harga paket wisata yang kami tawarkan berbeda dari agen tour & travel lainnya. Kami menyediakan harga yang sesuai dengan budget liburan Anda tanpa mengorbankan kualitas layanan.</p>
+                <h3>TENAGA KERJA BERKUALITAS & TERLATIH</h3>              
+                <p>Kami menyediakan tenaga kerja profesional dengan kemampuan sesuai kebutuhan proyek Anda.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour2.png" title="PILIHAN DESTINASI WISATA TERHITS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour2.png" width="180px"></a>
+                <a href="assets/img/labor/labor-2.png" title="PILIHAN DESTINASI WISATA TERHITS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/labor/labor-2.png" width="300px"></a>
               </div>
-                <h3>PILIHAN DESTINASI WISATA TERHITS</h3>              
-                <p>Kami telah memilih destinasi wisata terbaru dan terbaik yang mungkin belum pernah Anda kunjungi sebelumnya, memberikan pengalaman liburan yang segar dan berkesan.</p>
+                <h3>Fleksibilitas Waktu & Durasi Kerja</h3>              
+                <p>Mulai dari kebutuhan jangka pendek hingga kontrak panjang, kami siap membantu.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour3.png" title="DUKUNGAN TIM PROFESIONAL" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour3.png" width="180px"></a>
+                <a href="assets/img/labor/labor-3.png" title="DUKUNGAN REKRUTMEN PROFESIONAL" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/labor/labor-3.png" width="300px"></a>
               </div>
-                <h3>DUKUNGAN TIM PROFESIONAL</h3>              
-                <p>Biarkan tim profesional kami mengurus semua kebutuhan perjalanan Anda. Anda cukup fokus menikmati kenyamanan perjalanan dan keindahan destinasi wisata pilihan.</p>
+                <h3>DUKUNGAN REKRUTMEN PROFESIONAL</h3>              
+                <p>Tim kami memastikan proses seleksi dan rekrutmen berjalan efisien sesuai standar.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <div class="icon mt-5 pb-5 mb-5">                
-                <a href="assets/img/tour/tour4.png" title="LAYANAN ANTAR JEMPUT + SOPIR" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/tour/tour4.png" width="180px"></a>
+                <a href="assets/img/labor/labor-4.png" title="LAYANAN ANTAR & SETUP ACARA" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><img src="assets/img/labor/labor-4.png" width="300px"></a>
               </div>
-                <h3>LAYANAN ANTAR JEMPUT + SOPIR</h3>              
-                <p>Tidak perlu repot datang ke kantor. Duduk santai di rumah dan tunggu kami datang. Kami siap menjemput Anda di mana saja dengan layanan sopir profesional.</p>
+                <h3>EFISIENSI BIAYA & KINERJA OPTIMAL</h3>              
+                <p>Dengan layanan kami, Anda dapat fokus pada bisnis inti tanpa khawatir soal kebutuhan tenaga kerja.</p>
             </div>
           </div><!-- End Service Item -->
 
